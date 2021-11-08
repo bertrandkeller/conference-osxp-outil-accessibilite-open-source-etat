@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8000" height="3400">
+  <g transform="translate(2100,0)">
+    <rect id="background" fill="#dedede" width="1000" height="500" x="1400" y="550" rx="50" ry="50"></rect>
+    <rect id="background" fill="#212121" width="1000" height="500" x="1400" y="550" rx="50" ry="50">
+      <animate fill="freeze" dur="3s" to="500" from="0" attributeName="height" />
+    </rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="1600px" y="320px" fill="#ffffff" font-weight="bold" font-family="verdana, Arial, Helvetica, sans-serif" font-size="200px">Audit</text>
+      <animate fill="freeze" dur="3s" to="500" from="0" attributeName="height" />
+    </svg>
+  </g>
+  <g transform="translate(2100,550)">
+    <rect id="background" fill="#dedede" width="2000" height="500" x="900" y="550" rx="50" ry="50"></rect>
+  </g>
+  <g transform="translate(2100,1100)">
+    <rect id="background" fill="#dedede" width="3000" height="500" x="500" y="550" rx="50" ry="50"></rect>
+  </g>
+  <g transform="translate(2100,1650)">
+    <rect id="background" fill="#dedede" width="4000" height="500" x="0" y="550" rx="50" ry="50"></rect>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9000" height="4003">
+  <g transform="translate(1900,0)">
+    <rect fill="#dedede" width="5000" height="500" x="0" y="550" rx="30" ry="30"></rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#000000" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Archivage</text>
+    </svg>
+  </g>
+  <g transform="translate(1900,0)">
+    <rect fill="#212121" width="0" height="500" x="0" y="550" rx="30" ry="30">
+      <animate fill="freeze" dur="7s" to="0" from="0" attributeName="width" />
+    </rect>
+    <svg width="0" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Archivage</text>
+      <animate fill="freeze" dur="7s" to="0" from="0" attributeName="width" />
+    </svg>
+  </g>
+  <g transform="translate(1900,600)">
+    <rect fill="#dedede" width="5000" height="500" x="0" y="550" rx="30" ry="30"></rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#000000" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Collecte</text>
+    </svg>
+  </g>
+  <g transform="translate(1900,600)">
+    <rect fill="#212121" width="5000" height="500" x="0" y="550" rx="30" ry="30">
+      <animate fill="freeze" dur="7s" to="2500" from="5000" attributeName="width" />
+    </rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Collecte</text>
+      <animate fill="freeze" dur="7s" to="2500" from="5000" attributeName="width" />
+    </svg>
+  </g>
+  <g transform="translate(1900,1200)">
+    <rect fill="#dedede" width="5000" height="500" x="0" y="550" rx="30" ry="30"></rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#000000" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Publication</text>
+    </svg>
+  </g>
+  <g transform="translate(1900,1200)">
+    <rect fill="#212121" width="5000" height="500" x="0" y="550" rx="30" ry="30">
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Publication</text>
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </svg>
+  </g>
+  <g transform="translate(1900,1800)">
+    <rect fill="#dedede" width="5000" height="500" x="0" y="550" rx="30" ry="30"></rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#000000" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Expertise technique</text>
+    </svg>
+  </g>
+  <g transform="translate(1900,1800)">
+    <rect fill="#212121" width="5000" height="500" x="0" y="550" rx="30" ry="30">
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Expertise technique</text>
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </svg>
+  </g>
+  <g transform="translate(1900,2400)">
+    <rect fill="#dedede" width="5000" height="500" x="0" y="550" rx="30" ry="30"></rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#000000" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Acculturation équipe</text>
+    </svg>
+  </g>
+  <g transform="translate(1900,2400)">
+    <rect fill="#212121" width="5000" height="500" x="0" y="550" rx="30" ry="30">
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </rect>
+    <svg width="5000" height="500" x="0" y="550">
+      <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Acculturation équipe</text>
+      <animate fill="freeze" dur="7s" to="5000" from="5000" attributeName="width" />
+    </svg>
+  </g>
+</svg>
