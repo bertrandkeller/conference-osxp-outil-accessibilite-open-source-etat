@@ -118,13 +118,13 @@
 
   <path opacity="0" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" id="path60"
     d="m 4443.4414,860.2635 -0.6808,498.7656 v 0"
-    style="fill:none;stroke:#000000;stroke-width:6.66676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <animate fill="freeze" begin="a0.end" dur="2s" to="1" from="0" attributeName="opacity" id="a4" />
 
   </path>
 
   <ellipse opacity="0" ry="1555.2778" rx="2646.2395" cy="2978.7915" cx="4441.7202" id="path891"
-    style="fill:none;stroke:#000000;stroke-width:7.52218;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.416327">
+    style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4;stroke-opacity:0.8">
     <animate fill="freeze" begin="a0.end" dur="3s" to="1" from="0" attributeName="opacity" id="a4" />
 
   </ellipse>
@@ -132,7 +132,7 @@
   <text xml:space="preserve" opacity="0"
     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
     x="4606.2271" y="1219.8417" id="text865">
-    <tspan sodipodi:role="line" id="tspan873" x="4606.2271" y="1219.8417">Former</tspan>
+    <tspan sodipodi:role="line" id="tspan873" x="4606.2271" y="1219.8417">Rendre autonome</tspan>
     <animate fill="freeze" begin="a4.end" dur="1s" to="1" from="0" attributeName="opacity" id="animation3" />
   </text>
 

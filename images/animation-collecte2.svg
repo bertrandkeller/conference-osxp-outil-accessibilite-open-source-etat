@@ -22,11 +22,11 @@
   </g>
   <g transform="translate(1900,600)">
     <rect fill="#212121" width="0" height="500" x="0" y="550" rx="30" ry="30">
-      <animate fill="freeze" dur="7s" to="0" from="2500" attributeName="width" />
+      <animate fill="freeze" dur="2s" to="0" from="1500" attributeName="width" />
     </rect>
     <svg width="0" height="500" x="0" y="550">
       <text x="400px" y="325px" fill="#ffffff" font-weight="bold" font-family="marianne, verdana, Arial, Helvetica, sans-serif" font-size="200px">Collecte</text>
-      <animate fill="freeze" dur="7s" to="0" from="2500" attributeName="width" />
+      <animate fill="freeze" dur="2s" to="0" from="1500" attributeName="width" />
     </svg>
   </g>
   <g transform="translate(1900,1200)">

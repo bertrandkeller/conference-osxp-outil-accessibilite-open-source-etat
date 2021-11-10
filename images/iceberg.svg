@@ -38,29 +38,29 @@
       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:281.512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000;fill-opacity:1;stroke:none;stroke-width:9.59702"
       x="6759.968" y="635.807" opacity="0">
       <tspan style="stroke-width:9.59702" x="6759.968" y="635.807">Audit Simple</tspan>
-      <animate fill="freeze" begin="a30.end" dur="2s" to="1" from="0" attributeName="opacity" id="a31" />
+      <animate fill="freeze" begin="a30.end" dur="1s" to="1" from="0" attributeName="opacity" id="a31" />
     </text>
     <text y="1581.151" x="6222.167"
       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:281.512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000;fill-opacity:1;stroke:none;stroke-width:9.59702"
       xml:space="preserve" opacity="0">
       <tspan style="stroke-width:9.59702" x="6222.167" y="1581.151">Liste des Anomalies</tspan>
-      <animate fill="freeze" begin="a31.end" dur="3s" to="1" from="0" attributeName="opacity" id="a32" />
+      <animate fill="freeze" begin="a31.end" dur="1s" to="1" from="0" attributeName="opacity" id="a32" />
     </text>
     <text xml:space="preserve"
       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:281.512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000;fill-opacity:1;stroke:none;stroke-width:9.59702"
       x="6607.047" y="2867.151" opacity="0">
       <tspan style="stroke-width:9.59702" x="6607.047" y="2867.151">Préconisations</tspan>
-      <animate fill="freeze" begin="a32.end" dur="3s" to="1" from="0" attributeName="opacity" id="a33" />
+      <animate fill="freeze" begin="a32.end" dur="1s" to="1" from="0" attributeName="opacity" id="a33" />
     </text>
     <text y="4622.615" x="6359.35"
       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:281.512px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000;fill-opacity:1;stroke:none;stroke-width:9.59702"
       xml:space="preserve" opacity="0">
       <tspan style="stroke-width:9.59702" x="6359.35" y="4622.615">Pair Programming</tspan>
-      <animate fill="freeze" begin="a33.end" dur="3s" to="1" from="0" attributeName="opacity" id="a34" />
+      <animate fill="freeze" begin="a33.end" dur="1s" to="1" from="0" attributeName="opacity" id="a34" />
     </text>
   </g>
   <g opacity="0">
-    <animate fill="freeze" begin="a34.end" dur="10s" to="0" from="0" attributeName="opacity" id="a35" />
+    <animate fill="freeze" begin="a34.end" dur="2s" to="0" from="0" attributeName="opacity" id="a35" />
     <animate fill="freeze" begin="a35.end" dur="1s" to="1" from="0" attributeName="opacity" id="a36" />
     <path
       d="M811.554 288.884a7.244 7.244 0 0 0-.228-.842c-.047-.127-.063-.26-.114-.388a6.553 6.553 0 0 0-.452-.858c-.054-.087-.087-.188-.15-.275a6.356 6.356 0 0 0-.818-1.002l-85.8-85.8a6.03 6.03 0 0 0-1-.821c-.09-.06-.187-.098-.278-.151a6.133 6.133 0 0 0-.854-.456c-.128-.054-.262-.077-.392-.124-.275-.094-.55-.198-.838-.255a7.052 7.052 0 0 0-1.307-.127H494.97c-10.915 0-19.792 8.874-19.792 19.788v382.65c0 10.915 8.877 19.795 19.792 19.795h296.967c10.915 0 19.708-8.88 19.708-19.794V290.187c0-.442-.004-.878-.09-1.303zm-13.102 311.34c0 3.636-2.872 6.601-6.512 6.601H494.97c-3.64 0-6.598-2.965-6.598-6.601V217.573a6.602 6.602 0 0 1 6.598-6.595h217.715v57.216c0 15.764 12.868 28.551 28.628 28.551h57.139z" />
@@ -80,7 +80,7 @@
       style="fill:none;stroke:#000;stroke-width:20.4649;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-dasharray:61.3948,20.4649;stroke-dashoffset:0;stroke-opacity:.416327" />
   </g>
   <g opacity="0">
-    <animate fill="freeze" begin="2s" dur="4s" to="1" from="0" attributeName="opacity" id="a30" />
+    <animate fill="freeze" begin="1s" dur="2s" to="1" from="0" attributeName="opacity" id="a30" />
     <path
       style="opacity:1;fill:#141414;fill-opacity:.431267;stroke:#363636;stroke-width:17.3743;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.366577;stop-opacity:1"
       d="M4935.361 1096.636h4122.15" />
